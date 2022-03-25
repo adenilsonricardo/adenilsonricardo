@@ -1,6 +1,6 @@
 ### Olá! Eu sou Adenilson Ricardo 👋
 
-- 🔭 Hoje trabalho como Técnico de Suporte
+
 - 🌱 Estou estudando Desenvolvimento Android com a liguagem Kotlin
 - 📩 Contato: adenilson.bernardes@bol.com.br
 - 😄 Pronouns: ele/dele
