@@ -1,7 +1,7 @@
 ### Olá! Eu sou Adenilson Ricardo 👋
 
 
-- 🌱 Estou estudando Desenvolvimento Android com a liguagem Kotlin
+- 🌱 Buscando a primeira oportunidade com Desenvolvimento Android com a liguagem Kotlin
 - 📩 Contato: adenilson.bernardes@bol.com.br
 - 😄 Pronouns: ele/dele
 
