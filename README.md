@@ -2,7 +2,7 @@
 
 
 - 🌱 Buscando a primeira oportunidade com Desenvolvimento Android com a liguagem Kotlin
-- 📩 Contato: adenilson.bernardes@bol.com.br
+- 📩 Contato: adenilsonricardo.bernardes@gmail.com
 - 😄 Pronouns: ele/dele
 
 <div>
